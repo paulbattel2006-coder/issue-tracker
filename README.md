@@ -1,6 +1,6 @@
 # Issue Tracker App
 
-Hier entsthet eine Issue tracker app zum Verwalten von Aufgaben
+Hier entsteht eine Issue tracker app zum Verwalten von Aufgaben
 
 ```mermaid
 erDiagram
