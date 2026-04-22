@@ -6,7 +6,7 @@ Hier entsthet eine Issue tracker app zum Verwalten von Aufgaben
 erDiagram
 
 issue {
-  TEXT issue_id
+  INT issue_id
   TEXT name
   DATETIME deadliine
   Bool is_done
